@@ -1,0 +1,15 @@
+NET "n1<0>" LOC = L14;
+NET "n1<1>" LOC = L13;
+NET "n1<2>" LOC = N17;
+NET "n1<3>" LOC = R17;
+
+NET "n2<0>" LOC = G18;
+NET "n2<1>" LOC = H18;
+NET "n2<2>" LOC = K18;
+NET "n2<3>" LOC = K17;
+
+NET "result<0>" LOC = J14;
+NET "result<1>" LOC = J15;
+NET "result<2>" LOC = K15;
+NET "result<3>" LOC = K14;
+NET "result<4>" LOC = E17;
