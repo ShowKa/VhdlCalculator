@@ -1,5 +1,5 @@
 
--- VHDL Instantiation Created from source file fulladder_3.vhd -- 11:14:15 03/23/2020
+-- VHDL Instantiation Created from source file fulladder_3.vhd -- 10:01:17 03/24/2020
 --
 -- Notes: 
 -- 1) This instantiation template has been automatically generated using types

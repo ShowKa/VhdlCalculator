@@ -1,20 +1,20 @@
 
--- VHDL Instantiation Created from source file fulladder_4.vhd -- 09:35:15 03/24/2020
+-- VHDL Instantiation Created from source file multiplier_3.vhd -- 10:56:18 03/24/2020
 --
 -- Notes: 
 -- 1) This instantiation template has been automatically generated using types
 -- std_logic and std_logic_vector for the ports of the instantiated module
 -- 2) To use this template to instantiate this entity, cut-and-paste and then edit
 
-	COMPONENT fulladder_4
+	COMPONENT multiplier_3
 	PORT(
-		n1 : IN std_logic_vector(3 downto 0);
-		n2 : IN std_logic_vector(3 downto 0);          
-		result : OUT std_logic_vector(4 downto 0)
+		n1 : IN std_logic_vector(2 downto 0);
+		n2 : IN std_logic_vector(2 downto 0);          
+		result : OUT std_logic_vector(5 downto 0)
 		);
 	END COMPONENT;
 
-	Inst_fulladder_4: fulladder_4 PORT MAP(
+	Inst_multiplier_3: multiplier_3 PORT MAP(
 		n1 => ,
 		n2 => ,
 		result => 
