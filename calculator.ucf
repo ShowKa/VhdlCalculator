@@ -17,4 +17,5 @@ NET "result<5>" LOC = P15;
 NET "result<6>" LOC = F4;
 NET "result<7>" LOC = R4;
 
-NET "ope" LOC = H13;
+NET "ope<1>" LOC = H13;
+NET "ope<0>" LOC = E18;
